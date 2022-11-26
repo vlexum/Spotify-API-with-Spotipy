@@ -1,5 +1,6 @@
 # Spotify-API-with-Spotipy
 Playing with the Spotify API through the python library Spotipy 
+https://spotipy.readthedocs.io/en/latest/#module-spotipy.oauth2
 
 ## sync.py
 Creates new playlist and populates it with all your Liked songs from Spotify.
